@@ -1,0 +1,22 @@
+2019-12-13 14:49:21.385  - [32minfo[39m: host.raspberrypi iobroker.js-controller version 2.1.1 js-controller starting
+2019-12-13 14:49:21.396  - [32minfo[39m: host.raspberrypi Copyright (c) 2014-2019 bluefox, 2014 hobbyquaker
+2019-12-13 14:49:21.398  - [32minfo[39m: host.raspberrypi hostname: raspberrypi, node: v10.17.0
+2019-12-13 14:49:21.401  - [32minfo[39m: host.raspberrypi ip addresses: 192.168.0.10 fe80::b472:9ce0:a26a:79f8
+2019-12-13 14:49:21.513  - [32minfo[39m: host.raspberrypi connected to Objects and States
+2019-12-13 14:49:21.569  - [32minfo[39m: host.raspberrypi 3 instances found
+2019-12-13 14:49:21.588  - [32minfo[39m: host.raspberrypi starting 3 instances
+2019-12-13 14:49:21.634  - [32minfo[39m: host.raspberrypi instance system.adapter.admin.0 started with pid 13742
+2019-12-13 14:49:25.602  - [32minfo[39m: host.raspberrypi instance system.adapter.discovery.0 started with pid 13821
+2019-12-13 14:49:28.819  - [32minfo[39m: admin.0 (13742) starting. Version 3.6.12 in /opt/iobroker/node_modules/iobroker.admin, node: v10.17.0
+2019-12-13 14:49:28.915  - [32minfo[39m: admin.0 (13742) requesting all states
+2019-12-13 14:49:28.916  - [32minfo[39m: admin.0 (13742) requesting all objects
+2019-12-13 14:49:29.008  - [32minfo[39m: admin.0 (13742) received all objects
+2019-12-13 14:49:29.600  - [32minfo[39m: host.raspberrypi instance system.adapter.info.0 started with pid 13836
+2019-12-13 14:49:29.624  - [32minfo[39m: discovery.0 (13821) starting. Version 1.3.0 in /opt/iobroker/node_modules/iobroker.discovery, node: v10.17.0
+2019-12-13 14:49:29.022  - [33mwarn[39m: admin.0 (13742) Repository cannot be read
+2019-12-13 14:49:32.080  - [32minfo[39m: admin.0 (13742) http server listening on port 8081
+2019-12-13 14:49:32.081  - [32minfo[39m: admin.0 (13742) Use link "http://localhost:8081" to configure.
+2019-12-13 14:49:38.871  - [32minfo[39m: info.0 (13836) starting. Version 1.5.6 in /opt/iobroker/node_modules/iobroker.info, node: v10.17.0
+2019-12-13 14:49:41.971  - [32minfo[39m: info.0 (13836) Popup news was read...
+2019-12-13 14:53:04.528  - [32minfo[39m: host.raspberrypi Update repository "default" under "http://download.iobroker.net/sources-dist.json"
+2019-12-13 14:55:00.044  - [32minfo[39m: host.raspberrypi Update repository "default" under "http://download.iobroker.net/sources-dist.json"
